@@ -1,0 +1,10 @@
+{
+  "name": "api_node_sge",
+  "version": "1.0.0",
+  "description": "API REST en Node.js para SGE",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
